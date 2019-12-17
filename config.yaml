@@ -1,0 +1,4 @@
+irmaUrl: http://localhost:3047/api/irma
+irmaProductionMode: false
+port: 3047
+cookieSecret: VeryS3cret
